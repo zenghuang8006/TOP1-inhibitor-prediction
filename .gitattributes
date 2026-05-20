@@ -1,0 +1,4 @@
+DNN_MACCS.exe filter=lfs diff=lfs merge=lfs -text
+KNN_Morgan.exe filter=lfs diff=lfs merge=lfs -text
+RF_Morgan.exe filter=lfs diff=lfs merge=lfs -text
+SVM_Morgan.exe filter=lfs diff=lfs merge=lfs -text
